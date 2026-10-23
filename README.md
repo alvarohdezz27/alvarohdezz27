@@ -8,7 +8,7 @@
 
 ## 02. Tecnologías
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,php,py,nodejs,mysql,laravel,angular,tailwind&theme=dark" />
   </a>
