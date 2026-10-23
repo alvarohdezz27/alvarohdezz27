@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=java,js,php,py,nodejs,mysql,laravel,angular,tailwind&theme=dark" />
   </a>
 
-  <br/><br/>
+  <br/>
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
