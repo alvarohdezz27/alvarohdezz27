@@ -1,10 +1,10 @@
 ## 01. Sobre mí
 
-¡Hola! 👋 Soy un desarrollador enfocado en construir soluciones eficientes y funcionales. 
+¡Hola!  Soy un desarrollador enfocado en construir soluciones eficientes y funcionales. 
 
-* 🎓 **Formación:** Cuento con el título de **Desarrollo de Aplicaciones Web (DAW)** y actualmente me encuentro ampliando mis conocimientos estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-* 🧩 **Enfoque:** Me apasiona resolver problemas complejos mediante el código y me defino como una persona estructurada y organizada en mi metodología de trabajo.
-* 🚀 **Puntos fuertes:** Me destaco por mi capacidad de **adaptación rápida** a nuevos entornos y tecnologías, el **trabajo en equipo** y una **comunicación eficaz** tanto con compañeros como con clientes.
+*  **Formación:** Cuento con el título de **Desarrollo de Aplicaciones Web (DAW)** y actualmente me encuentro ampliando mis conocimientos estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+* **Enfoque:** Me apasiona resolver problemas complejos mediante el código y me defino como una persona estructurada y organizada en mi metodología de trabajo.
+* **Puntos fuertes:** Me destaco por mi capacidad de **adaptación rápida** a nuevos entornos y tecnologías, el **trabajo en equipo** y una **comunicación eficaz** tanto con compañeros como con clientes.
 
 ## 02. Tecnologías
 
